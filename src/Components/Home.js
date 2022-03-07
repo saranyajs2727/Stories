@@ -3,8 +3,8 @@ import {View, Text, StatusBar, ScrollView} from 'react-native';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import Feather from 'react-native-vector-icons/Feather';
 import Ionic from 'react-native-vector-icons/Ionicons';
-import Stories from '../Components/Stories';
-import Post from '../Components/Post';
+import Stories from './Stories';
+import Post from './Post';
 
 const Home = () => {
   return (

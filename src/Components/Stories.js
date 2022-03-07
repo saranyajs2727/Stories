@@ -6,7 +6,7 @@ import Entypo from 'react-native-vector-icons/Entypo';
 import {useNavigation} from '@react-navigation/native';
 
 const Stories = () => {
-  // const navigation = useNavigation();
+  const navigation = useNavigation();
 
   const storyInfo = [
     {
