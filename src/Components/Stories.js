@@ -41,6 +41,31 @@ const Stories = () => {
       name: 'chillhouse',
       image: require('../../assets/Images/img6.jpeg'),
     },
+    {
+      id: 0,
+      name: '__yazhini___',
+      image: require('../../assets/Images/img7.jpg'),
+    },
+    {
+      id: 0,
+      name: 'call_me_dude',
+      image: require('../../assets/Images/img8.jpeg'),
+    },
+    {
+      id: 0,
+      name: 'its_me_brutus',
+      image: require('../../assets/Images/img9.jpeg'),
+    },
+    {
+      id: 0,
+      name: 'rockers_ride',
+      image: require('../../assets/Images/img10.jpeg'),
+    },
+    {
+      id: 0,
+      name: 'blacky_black',
+      image: require('../../assets/Images/img11.jpeg'),
+    },
   ];
 
   return (
